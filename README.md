@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorge-mells
 - 👀 I’m interested in maths and code
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning OCaml and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
