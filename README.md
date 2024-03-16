@@ -2,7 +2,8 @@
 - 👀 I’m interested in maths and programming
 - 🌱 I’m currently learning ocaml and python(I'm not really doing a single thing right now)
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me jorgemelloes@gmail.com
+- 📫 How to reach me
+      Email: jorgemelloes@gmail.com
 
 <!---
 jorge-mells/jorge-mells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
