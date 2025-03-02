@@ -10,7 +10,7 @@ I just recently started programming. I'm currently just dabbling in as many prog
 * 🚀  I'm currently working on [nothing](http://github.com/jorge-mells)
 * 🧠  I'm learning javascript and react
 * 🤝  I'm open to collaborating on nothing really (I'm still learning)
-* ⚡  Vim is the best editor
+* ⚡  Currently in my customize-everything era
 
 ### Skills
 
