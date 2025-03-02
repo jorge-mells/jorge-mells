@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript(technically, I'm just reading javascript books, so yeah)
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 You can reach me by email: jorgemelloes@gmail.com
-- 💻 I've currently used a bit of OCaml, Python, Java, Assembly, C, Kotlin, and Scala(but I'm still a beginner in all of them)
+- 💻 I've currently used a bit of OCaml, Python, Java, Assembly, C, Kotlin, JavaScript, and Scala(but I'm still a beginner in all of them)
 
 <!--- 
 More about me, for those interested
