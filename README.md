@@ -7,11 +7,11 @@ University Student
 I just recently started programming. I'm currently just dabbling in as many programming languages as I can, and exploring how much abstraction exists in computer science as a whole
 
 * 🌍  I'm based in Saarbrücken, Germany
-* 🖥️  See my portfolio at [!! under-construction !!](http://https://jorge-mells.github.io/)
-* ✉️  You can contact me at [jorgemelloes@gmail.com](mailto:jorgemelloes@gmail.com)
-* 🚀  I'm currently working on [nothing](http://github.com/jorge-mells)
-* 🧠  I'm learning cplusplus
-* 🤝  I'm open to collaborating on nothing really (I'm still learning)
+* 🖥️  See my website at [site.jorgemells.com](https://site.jorgemells.com)
+* ✉️  You can contact me at [georgemillsgh@protonmail.com](mailto:georgemillsgh@protonmail.com)
+* 🚀  I'm currently working on my thesis
+* 🧠  I'm learning devops fundamentals
+* 🤝  I'm open to collaborating on anything devops(I'm currently very interested in devops)
 * ⚡  I've also used Ocaml and Scala
 
 ### Skills
